@@ -1,0 +1,228 @@
+[
+    {
+        "mapName": "Map",
+        "unitSize": 20.24000000000002,
+        "displayWidth": 141.68000000000015,
+        "displayHeight": 121.44000000000011,
+        "copyUnitSize": 9.200000000000005,
+        "copyDisplayWidth": 64.40000000000003,
+        "copyDisplayHeight": 55.20000000000003,
+        "Name": "MAP_DATA"
+    },
+    {
+        "items": {
+            "TopLeft": [
+                1.0,
+                0.0
+            ],
+            "BottomRight": [
+                2.0,
+                0.0
+            ],
+            "id": 1,
+            "Relations": null,
+            "Color": [
+                0,
+                0,
+                0,
+                255
+            ]
+        },
+        "TopLeft": [
+            1.0,
+            0.0
+        ],
+        "BottomRight": [
+            2.0,
+            0.0
+        ],
+        "id": 1,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": [
+                4.0,
+                0.0
+            ],
+            "BottomRight": [
+                5.0,
+                0.0
+            ],
+            "id": 3,
+            "Relations": null,
+            "Color": [
+                0,
+                0,
+                0,
+                255
+            ]
+        },
+        "TopLeft": [
+            4.0,
+            0.0
+        ],
+        "BottomRight": [
+            5.0,
+            0.0
+        ],
+        "id": 3,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": [
+                0.0,
+                1.0
+            ],
+            "BottomRight": [
+                6.0,
+                2.0
+            ],
+            "id": 4,
+            "Relations": null,
+            "Color": [
+                0,
+                0,
+                0,
+                255
+            ]
+        },
+        "TopLeft": [
+            0.0,
+            1.0
+        ],
+        "BottomRight": [
+            6.0,
+            2.0
+        ],
+        "id": 4,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": [
+                1.0,
+                3.0
+            ],
+            "BottomRight": [
+                5.0,
+                3.0
+            ],
+            "id": 5,
+            "Relations": null,
+            "Color": [
+                0,
+                0,
+                0,
+                255
+            ]
+        },
+        "TopLeft": [
+            1.0,
+            3.0
+        ],
+        "BottomRight": [
+            5.0,
+            3.0
+        ],
+        "id": 5,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": [
+                2.0,
+                4.0
+            ],
+            "BottomRight": [
+                4.0,
+                4.0
+            ],
+            "id": 6,
+            "Relations": null,
+            "Color": [
+                0,
+                0,
+                0,
+                255
+            ]
+        },
+        "TopLeft": [
+            2.0,
+            4.0
+        ],
+        "BottomRight": [
+            4.0,
+            4.0
+        ],
+        "id": 6,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": [
+                3.0,
+                5.0
+            ],
+            "BottomRight": [
+                3.0,
+                5.0
+            ],
+            "id": 7,
+            "Relations": null,
+            "Color": [
+                0,
+                0,
+                0,
+                255
+            ]
+        },
+        "TopLeft": [
+            3.0,
+            5.0
+        ],
+        "BottomRight": [
+            3.0,
+            5.0
+        ],
+        "id": 7,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ]
+    }
+]

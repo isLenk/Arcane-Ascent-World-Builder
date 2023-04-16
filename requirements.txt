@@ -1,0 +1,3 @@
+pip install pygame
+pip install pyauto_gui
+pip install tk

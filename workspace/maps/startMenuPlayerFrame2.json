@@ -1,0 +1,342 @@
+[
+    {
+        "mapName": "Map",
+        "mapColor": [
+            194,
+            196,
+            207,
+            255
+        ],
+        "unitSize": 4,
+        "displayWidth": 512,
+        "displayHeight": 512,
+        "copyUnitSize": 4,
+        "copyDisplayWidth": 512,
+        "copyDisplayHeight": 512,
+        "Name": "MAP_DATA"
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            71.0,
+            82.0
+        ],
+        "BottomRight": [
+            127.0,
+            85.0
+        ],
+        "id": 1,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            67.0,
+            86.0
+        ],
+        "BottomRight": [
+            72.0,
+            127.0
+        ],
+        "id": 2,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                125,
+                0,
+                40,
+                255
+            ],
+            "Resizable": true
+        },
+        "TopLeft": [
+            73.0,
+            86.0
+        ],
+        "BottomRight": [
+            82.0,
+            87.0
+        ],
+        "id": 7,
+        "Relations": [
+            7,
+            10,
+            11,
+            13,
+            14,
+            16,
+            17
+        ],
+        "Color": [
+            125,
+            0,
+            40,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": true
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                125,
+                0,
+                40,
+                255
+            ],
+            "Resizable": true
+        },
+        "TopLeft": [
+            75.0,
+            88.0
+        ],
+        "BottomRight": [
+            76.0,
+            91.0
+        ],
+        "id": 10,
+        "Relations": [
+            7,
+            10,
+            11,
+            13,
+            14,
+            16,
+            17
+        ],
+        "Color": [
+            125,
+            0,
+            40,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": true
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                125,
+                0,
+                40,
+                255
+            ],
+            "Resizable": true
+        },
+        "TopLeft": [
+            75.0,
+            92.0
+        ],
+        "BottomRight": [
+            82.0,
+            97.0
+        ],
+        "id": 11,
+        "Relations": [
+            7,
+            10,
+            11,
+            13,
+            14,
+            16,
+            17
+        ],
+        "Color": [
+            125,
+            0,
+            40,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": true
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                0,
+                0,
+                0,
+                255
+            ],
+            "Resizable": true
+        },
+        "TopLeft": [
+            79.0,
+            88.0
+        ],
+        "BottomRight": [
+            80.0,
+            89.0
+        ],
+        "id": 13,
+        "Relations": [
+            7,
+            10,
+            11,
+            13,
+            14,
+            16,
+            17
+        ],
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": true
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                0,
+                0,
+                0,
+                255
+            ],
+            "Resizable": true
+        },
+        "TopLeft": [
+            77.0,
+            90.0
+        ],
+        "BottomRight": [
+            82.0,
+            91.0
+        ],
+        "id": 14,
+        "Relations": [
+            7,
+            10,
+            11,
+            13,
+            14,
+            16,
+            17
+        ],
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": true
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "Resizable": true
+        },
+        "TopLeft": [
+            77.0,
+            88.0
+        ],
+        "BottomRight": [
+            78.0,
+            89.0
+        ],
+        "id": 16,
+        "Relations": [
+            7,
+            10,
+            11,
+            13,
+            14,
+            16,
+            17
+        ],
+        "Color": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": true
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "Resizable": true
+        },
+        "TopLeft": [
+            81.0,
+            88.0
+        ],
+        "BottomRight": [
+            82.0,
+            89.0
+        ],
+        "id": 17,
+        "Relations": [
+            7,
+            10,
+            11,
+            13,
+            14,
+            16,
+            17
+        ],
+        "Color": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": true
+    }
+]

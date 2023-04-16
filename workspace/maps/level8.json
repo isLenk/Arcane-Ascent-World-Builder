@@ -1,0 +1,3286 @@
+[
+    {
+        "mapName": "Map",
+        "mapColor": [
+            23,
+            22,
+            22,
+            255
+        ],
+        "unitSize": 4,
+        "displayWidth": 512,
+        "displayHeight": 384,
+        "copyUnitSize": 4,
+        "copyDisplayWidth": 512,
+        "copyDisplayHeight": 384,
+        "Name": "MAP_DATA"
+    },
+    {
+        "items": {
+            "TopLeft": [
+                110.0,
+                85.0
+            ],
+            "BottomRight": [
+                127.0,
+                87.0
+            ],
+            "id": 0,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            110.0,
+            85.0
+        ],
+        "BottomRight": [
+            127.0,
+            87.0
+        ],
+        "id": 0,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                113.0,
+                88.0
+            ],
+            "BottomRight": [
+                127.0,
+                90.0
+            ],
+            "id": 1,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            113.0,
+            88.0
+        ],
+        "BottomRight": [
+            127.0,
+            90.0
+        ],
+        "id": 1,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                119.0,
+                91.0
+            ],
+            "BottomRight": [
+                127.0,
+                95.0
+            ],
+            "id": 2,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            119.0,
+            91.0
+        ],
+        "BottomRight": [
+            127.0,
+            95.0
+        ],
+        "id": 2,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                0.0,
+                0.0
+            ],
+            "BottomRight": [
+                127.0,
+                0.0
+            ],
+            "id": 3,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            0.0,
+            0.0
+        ],
+        "BottomRight": [
+            127.0,
+            0.0
+        ],
+        "id": 3,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                0.0,
+                1.0
+            ],
+            "BottomRight": [
+                0.0,
+                95.0
+            ],
+            "id": 5,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            0.0,
+            1.0
+        ],
+        "BottomRight": [
+            0.0,
+            95.0
+        ],
+        "id": 5,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                127.0,
+                1.0
+            ],
+            "BottomRight": [
+                127.0,
+                84.0
+            ],
+            "id": 6,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            127.0,
+            1.0
+        ],
+        "BottomRight": [
+            127.0,
+            84.0
+        ],
+        "id": 6,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                62.0,
+                68.0
+            ],
+            "BottomRight": [
+                90.0,
+                71.0
+            ],
+            "id": 7,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            62.0,
+            68.0
+        ],
+        "BottomRight": [
+            90.0,
+            71.0
+        ],
+        "id": 7,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                69.0,
+                72.0
+            ],
+            "BottomRight": [
+                87.0,
+                74.0
+            ],
+            "id": 8,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            69.0,
+            72.0
+        ],
+        "BottomRight": [
+            87.0,
+            74.0
+        ],
+        "id": 8,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                72.0,
+                75.0
+            ],
+            "BottomRight": [
+                81.0,
+                95.0
+            ],
+            "id": 9,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            72.0,
+            75.0
+        ],
+        "BottomRight": [
+            81.0,
+            95.0
+        ],
+        "id": 9,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                82.0,
+                75.0
+            ],
+            "BottomRight": [
+                85.0,
+                87.0
+            ],
+            "id": 10,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            82.0,
+            75.0
+        ],
+        "BottomRight": [
+            85.0,
+            87.0
+        ],
+        "id": 10,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                59.0,
+                83.0
+            ],
+            "BottomRight": [
+                71.0,
+                87.0
+            ],
+            "id": 11,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            59.0,
+            83.0
+        ],
+        "BottomRight": [
+            71.0,
+            87.0
+        ],
+        "id": 11,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                53.0,
+                81.0
+            ],
+            "BottomRight": [
+                66.0,
+                82.0
+            ],
+            "id": 12,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            53.0,
+            81.0
+        ],
+        "BottomRight": [
+            66.0,
+            82.0
+        ],
+        "id": 12,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                67.0,
+                81.0
+            ],
+            "BottomRight": [
+                71.0,
+                82.0
+            ],
+            "Name": "Spike",
+            "Resizable": false,
+            "id": 13,
+            "Relations": [
+                13,
+                17,
+                21,
+                28,
+                34,
+                40,
+                67,
+                68,
+                69,
+                70,
+                75
+            ],
+            "Color": [
+                100,
+                100,
+                100,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            67.0,
+            81.0
+        ],
+        "BottomRight": [
+            71.0,
+            82.0
+        ],
+        "id": 13,
+        "Relations": [
+            13,
+            17,
+            21,
+            28,
+            34,
+            40,
+            67,
+            68,
+            69,
+            70,
+            75
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                25.0,
+                57.0
+            ],
+            "BottomRight": [
+                53.0,
+                60.0
+            ],
+            "id": 14,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            25.0,
+            57.0
+        ],
+        "BottomRight": [
+            52.0,
+            60.0
+        ],
+        "id": 14,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                28.0,
+                61.0
+            ],
+            "BottomRight": [
+                51.0,
+                62.0
+            ],
+            "id": 15,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            28.0,
+            61.0
+        ],
+        "BottomRight": [
+            51.0,
+            62.0
+        ],
+        "id": 15,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                36.0,
+                63.0
+            ],
+            "BottomRight": [
+                47.0,
+                69.0
+            ],
+            "id": 16,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            36.0,
+            63.0
+        ],
+        "BottomRight": [
+            47.0,
+            69.0
+        ],
+        "id": 16,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                25.0,
+                27.0
+            ],
+            "BottomRight": [
+                52.0,
+                41.0
+            ],
+            "id": 18,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            25.0,
+            27.0
+        ],
+        "BottomRight": [
+            52.0,
+            41.0
+        ],
+        "id": 18,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                1.0,
+                84.0
+            ],
+            "BottomRight": [
+                42.0,
+                95.0
+            ],
+            "id": 19,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            1.0,
+            84.0
+        ],
+        "BottomRight": [
+            42.0,
+            95.0
+        ],
+        "id": 19,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                43.0,
+                89.0
+            ],
+            "BottomRight": [
+                50.0,
+                95.0
+            ],
+            "id": 20,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            43.0,
+            89.0
+        ],
+        "BottomRight": [
+            50.0,
+            95.0
+        ],
+        "id": 20,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                43.0,
+                87.0
+            ],
+            "BottomRight": [
+                50.0,
+                88.0
+            ],
+            "Name": "Spike",
+            "Resizable": false,
+            "id": 21,
+            "Relations": [
+                13,
+                17,
+                21,
+                28,
+                34,
+                40,
+                67,
+                68,
+                69,
+                70,
+                75
+            ],
+            "Color": [
+                100,
+                100,
+                100,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            43.0,
+            87.0
+        ],
+        "BottomRight": [
+            50.0,
+            88.0
+        ],
+        "id": 21,
+        "Relations": [
+            13,
+            17,
+            21,
+            28,
+            34,
+            40,
+            67,
+            68,
+            69,
+            70,
+            75
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                1.0,
+                75.0
+            ],
+            "BottomRight": [
+                7.0,
+                83.0
+            ],
+            "id": 22,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            1.0,
+            75.0
+        ],
+        "BottomRight": [
+            7.0,
+            83.0
+        ],
+        "id": 22,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                8.0,
+                80.0
+            ],
+            "BottomRight": [
+                31.0,
+                83.0
+            ],
+            "id": 23,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            8.0,
+            80.0
+        ],
+        "BottomRight": [
+            31.0,
+            83.0
+        ],
+        "id": 23,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                1.0,
+                47.0
+            ],
+            "BottomRight": [
+                4.0,
+                74.0
+            ],
+            "id": 24,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            1.0,
+            47.0
+        ],
+        "BottomRight": [
+            4.0,
+            74.0
+        ],
+        "id": 24,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                101.0,
+                42.0
+            ],
+            "BottomRight": [
+                126.0,
+                47.0
+            ],
+            "id": 25,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            101.0,
+            42.0
+        ],
+        "BottomRight": [
+            126.0,
+            47.0
+        ],
+        "id": 25,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                121.0,
+                79.0
+            ],
+            "BottomRight": [
+                124.0,
+                83.0
+            ],
+            "Name": "Player Spawn",
+            "Resizable": false,
+            "id": 26,
+            "Relations": [
+                26
+            ],
+            "Color": [
+                113,
+                146,
+                255,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            121.0,
+            79.0
+        ],
+        "BottomRight": [
+            124.0,
+            83.0
+        ],
+        "id": 26,
+        "Relations": [
+            26
+        ],
+        "Color": [
+            113,
+            146,
+            255,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Player Spawn",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                86.0,
+                81.0
+            ],
+            "BottomRight": [
+                93.0,
+                83.0
+            ],
+            "id": 27,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            86.0,
+            81.0
+        ],
+        "BottomRight": [
+            93.0,
+            83.0
+        ],
+        "id": 27,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                86.0,
+                79.0
+            ],
+            "BottomRight": [
+                93.0,
+                80.0
+            ],
+            "Name": "Spike",
+            "Resizable": false,
+            "id": 28,
+            "Relations": [
+                13,
+                17,
+                21,
+                28,
+                34,
+                40,
+                67,
+                68,
+                69,
+                70,
+                75
+            ],
+            "Color": [
+                100,
+                100,
+                100,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            86.0,
+            79.0
+        ],
+        "BottomRight": [
+            93.0,
+            80.0
+        ],
+        "id": 28,
+        "Relations": [
+            13,
+            17,
+            21,
+            28,
+            34,
+            40,
+            67,
+            68,
+            69,
+            70,
+            75
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                119.0,
+                48.0
+            ],
+            "BottomRight": [
+                126.0,
+                55.0
+            ],
+            "id": 29,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            119.0,
+            48.0
+        ],
+        "BottomRight": [
+            126.0,
+            55.0
+        ],
+        "id": 29,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                105.0,
+                48.0
+            ],
+            "BottomRight": [
+                118.0,
+                51.0
+            ],
+            "id": 30,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            105.0,
+            48.0
+        ],
+        "BottomRight": [
+            118.0,
+            51.0
+        ],
+        "id": 30,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                123.0,
+                56.0
+            ],
+            "BottomRight": [
+                126.0,
+                64.0
+            ],
+            "id": 31,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            123.0,
+            56.0
+        ],
+        "BottomRight": [
+            126.0,
+            64.0
+        ],
+        "id": 31,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                72.0,
+                42.0
+            ],
+            "BottomRight": [
+                100.0,
+                44.0
+            ],
+            "id": 32,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            72.0,
+            42.0
+        ],
+        "BottomRight": [
+            100.0,
+            44.0
+        ],
+        "id": 32,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                84.0,
+                66.0
+            ],
+            "BottomRight": [
+                93.0,
+                67.0
+            ],
+            "id": 33,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            84.0,
+            66.0
+        ],
+        "BottomRight": [
+            93.0,
+            67.0
+        ],
+        "id": 33,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                67.0,
+                66.0
+            ],
+            "BottomRight": [
+                83.0,
+                67.0
+            ],
+            "Name": "Spike",
+            "Resizable": false,
+            "id": 34,
+            "Relations": [
+                13,
+                17,
+                21,
+                28,
+                34,
+                40,
+                67,
+                68,
+                69,
+                70,
+                75
+            ],
+            "Color": [
+                100,
+                100,
+                100,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            67.0,
+            66.0
+        ],
+        "BottomRight": [
+            83.0,
+            67.0
+        ],
+        "id": 34,
+        "Relations": [
+            13,
+            17,
+            21,
+            28,
+            34,
+            40,
+            67,
+            68,
+            69,
+            70,
+            75
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                56.0,
+                83.0
+            ],
+            "BottomRight": [
+                58.0,
+                85.0
+            ],
+            "id": 35,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            56.0,
+            83.0
+        ],
+        "BottomRight": [
+            58.0,
+            85.0
+        ],
+        "id": 35,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                64.0,
+                88.0
+            ],
+            "BottomRight": [
+                71.0,
+                90.0
+            ],
+            "id": 36,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            64.0,
+            88.0
+        ],
+        "BottomRight": [
+            71.0,
+            90.0
+        ],
+        "id": 36,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                16.0,
+                40.0
+            ],
+            "BottomRight": [
+                24.0,
+                43.0
+            ],
+            "id": 37,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            16.0,
+            40.0
+        ],
+        "BottomRight": [
+            24.0,
+            43.0
+        ],
+        "id": 37,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                19.0,
+                36.0
+            ],
+            "BottomRight": [
+                24.0,
+                39.0
+            ],
+            "id": 38,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            19.0,
+            36.0
+        ],
+        "BottomRight": [
+            24.0,
+            39.0
+        ],
+        "id": 38,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                5.0,
+                54.0
+            ],
+            "BottomRight": [
+                8.0,
+                56.0
+            ],
+            "id": 39,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            5.0,
+            54.0
+        ],
+        "BottomRight": [
+            8.0,
+            56.0
+        ],
+        "id": 39,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                31.0,
+                63.0
+            ],
+            "BottomRight": [
+                35.0,
+                66.0
+            ],
+            "id": 41,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            31.0,
+            63.0
+        ],
+        "BottomRight": [
+            35.0,
+            66.0
+        ],
+        "id": 41,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                1.0,
+                1.0
+            ],
+            "BottomRight": [
+                10.0,
+                17.0
+            ],
+            "id": 42,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            1.0,
+            1.0
+        ],
+        "BottomRight": [
+            10.0,
+            17.0
+        ],
+        "id": 42,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                11.0,
+                1.0
+            ],
+            "BottomRight": [
+                35.0,
+                4.0
+            ],
+            "id": 43,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            11.0,
+            1.0
+        ],
+        "BottomRight": [
+            35.0,
+            4.0
+        ],
+        "id": 43,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                11.0,
+                5.0
+            ],
+            "BottomRight": [
+                21.0,
+                12.0
+            ],
+            "id": 44,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            11.0,
+            5.0
+        ],
+        "BottomRight": [
+            21.0,
+            12.0
+        ],
+        "id": 44,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                22.0,
+                5.0
+            ],
+            "BottomRight": [
+                30.0,
+                8.0
+            ],
+            "id": 45,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            22.0,
+            5.0
+        ],
+        "BottomRight": [
+            30.0,
+            8.0
+        ],
+        "id": 45,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                1.0,
+                18.0
+            ],
+            "BottomRight": [
+                6.0,
+                26.0
+            ],
+            "id": 46,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            1.0,
+            18.0
+        ],
+        "BottomRight": [
+            6.0,
+            26.0
+        ],
+        "id": 46,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                1.0,
+                27.0
+            ],
+            "BottomRight": [
+                2.0,
+                35.0
+            ],
+            "id": 47,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            1.0,
+            27.0
+        ],
+        "BottomRight": [
+            2.0,
+            35.0
+        ],
+        "id": 47,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                85.0,
+                1.0
+            ],
+            "BottomRight": [
+                126.0,
+                26.0
+            ],
+            "id": 48,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            85.0,
+            1.0
+        ],
+        "BottomRight": [
+            126.0,
+            26.0
+        ],
+        "id": 48,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                36.0,
+                1.0
+            ],
+            "BottomRight": [
+                84.0,
+                3.0
+            ],
+            "id": 49,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            36.0,
+            1.0
+        ],
+        "BottomRight": [
+            84.0,
+            3.0
+        ],
+        "id": 49,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                76.0,
+                18.0
+            ],
+            "BottomRight": [
+                84.0,
+                26.0
+            ],
+            "id": 50,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            76.0,
+            18.0
+        ],
+        "BottomRight": [
+            84.0,
+            26.0
+        ],
+        "id": 50,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                55.0,
+                22.0
+            ],
+            "BottomRight": [
+                75.0,
+                26.0
+            ],
+            "id": 51,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            55.0,
+            22.0
+        ],
+        "BottomRight": [
+            75.0,
+            26.0
+        ],
+        "id": 51,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                34.0,
+                24.0
+            ],
+            "BottomRight": [
+                54.0,
+                26.0
+            ],
+            "id": 52,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            34.0,
+            24.0
+        ],
+        "BottomRight": [
+            54.0,
+            26.0
+        ],
+        "id": 52,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                68.0,
+                4.0
+            ],
+            "BottomRight": [
+                84.0,
+                7.0
+            ],
+            "id": 53,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            68.0,
+            4.0
+        ],
+        "BottomRight": [
+            84.0,
+            7.0
+        ],
+        "id": 53,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                51.0,
+                4.0
+            ],
+            "BottomRight": [
+                67.0,
+                5.0
+            ],
+            "id": 54,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            51.0,
+            4.0
+        ],
+        "BottomRight": [
+            67.0,
+            5.0
+        ],
+        "id": 54,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                77.0,
+                10.0
+            ],
+            "BottomRight": [
+                83.0,
+                17.0
+            ],
+            "Name": "Exit Point",
+            "Resizable": false,
+            "id": 55,
+            "Relations": [
+                55
+            ],
+            "Color": [
+                56,
+                56,
+                56,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            77.0,
+            10.0
+        ],
+        "BottomRight": [
+            83.0,
+            17.0
+        ],
+        "id": 55,
+        "Relations": [
+            55
+        ],
+        "Color": [
+            56,
+            56,
+            56,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Exit Point",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                74.0,
+                39.0
+            ],
+            "BottomRight": [
+                126.0,
+                41.0
+            ],
+            "id": 56,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            74.0,
+            39.0
+        ],
+        "BottomRight": [
+            126.0,
+            41.0
+        ],
+        "id": 56,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                53.0,
+                27.0
+            ],
+            "BottomRight": [
+                58.0,
+                35.0
+            ],
+            "id": 57,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            53.0,
+            27.0
+        ],
+        "BottomRight": [
+            58.0,
+            35.0
+        ],
+        "id": 57,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                54.0,
+                54.0
+            ],
+            "BottomRight": [
+                58.0,
+                58.0
+            ],
+            "id": 58,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            53.0,
+            54.0
+        ],
+        "BottomRight": [
+            59.0,
+            58.0
+        ],
+        "id": 58,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                113.0,
+                27.0
+            ],
+            "BottomRight": [
+                126.0,
+                30.0
+            ],
+            "id": 59,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            113.0,
+            27.0
+        ],
+        "BottomRight": [
+            126.0,
+            30.0
+        ],
+        "id": 59,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                119.0,
+                31.0
+            ],
+            "BottomRight": [
+                126.0,
+                38.0
+            ],
+            "id": 60,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            119.0,
+            31.0
+        ],
+        "BottomRight": [
+            126.0,
+            38.0
+        ],
+        "id": 60,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                111.0,
+                35.0
+            ],
+            "BottomRight": [
+                116.0,
+                36.0
+            ],
+            "Name": "Gate Key",
+            "Resizable": false,
+            "id": 61,
+            "Relations": [
+                61
+            ],
+            "Color": [
+                255,
+                224,
+                112,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            111.0,
+            35.0
+        ],
+        "BottomRight": [
+            116.0,
+            36.0
+        ],
+        "id": 61,
+        "Relations": [
+            61
+        ],
+        "Color": [
+            255,
+            224,
+            112,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Gate Key",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                82.0,
+                36.0
+            ],
+            "BottomRight": [
+                101.0,
+                38.0
+            ],
+            "id": 62,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            82.0,
+            36.0
+        ],
+        "BottomRight": [
+            101.0,
+            38.0
+        ],
+        "id": 62,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                59.0,
+                27.0
+            ],
+            "BottomRight": [
+                69.0,
+                31.0
+            ],
+            "id": 63,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            59.0,
+            27.0
+        ],
+        "BottomRight": [
+            69.0,
+            31.0
+        ],
+        "id": 63,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                1.0,
+                36.0
+            ],
+            "BottomRight": [
+                5.0,
+                37.0
+            ],
+            "id": 65,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            1.0,
+            36.0
+        ],
+        "BottomRight": [
+            5.0,
+            37.0
+        ],
+        "id": 65,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                3.0,
+                32.0
+            ],
+            "BottomRight": [
+                9.0,
+                35.0
+            ],
+            "id": 66,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            3.0,
+            32.0
+        ],
+        "BottomRight": [
+            9.0,
+            35.0
+        ],
+        "id": 66,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                3.0,
+                30.0
+            ],
+            "BottomRight": [
+                9.0,
+                31.0
+            ],
+            "Name": "Spike",
+            "Resizable": false,
+            "id": 67,
+            "Relations": [
+                13,
+                17,
+                21,
+                28,
+                34,
+                40,
+                67,
+                68,
+                69,
+                70,
+                75
+            ],
+            "Color": [
+                100,
+                100,
+                100,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            3.0,
+            30.0
+        ],
+        "BottomRight": [
+            9.0,
+            31.0
+        ],
+        "id": 67,
+        "Relations": [
+            13,
+            17,
+            21,
+            28,
+            34,
+            40,
+            67,
+            68,
+            69,
+            70,
+            75
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                34.0,
+                22.0
+            ],
+            "BottomRight": [
+                38.0,
+                23.0
+            ],
+            "Name": "Spike",
+            "Resizable": false,
+            "id": 68,
+            "Relations": [
+                13,
+                17,
+                21,
+                28,
+                34,
+                40,
+                67,
+                68,
+                69,
+                70,
+                75
+            ],
+            "Color": [
+                100,
+                100,
+                100,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            34.0,
+            22.0
+        ],
+        "BottomRight": [
+            38.0,
+            23.0
+        ],
+        "id": 68,
+        "Relations": [
+            13,
+            17,
+            21,
+            28,
+            34,
+            40,
+            67,
+            68,
+            69,
+            70,
+            75
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                51.0,
+                22.0
+            ],
+            "BottomRight": [
+                54.0,
+                23.0
+            ],
+            "Name": "Spike",
+            "Resizable": false,
+            "id": 69,
+            "Relations": [
+                13,
+                17,
+                21,
+                28,
+                34,
+                40,
+                67,
+                68,
+                69,
+                70,
+                75
+            ],
+            "Color": [
+                100,
+                100,
+                100,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            51.0,
+            22.0
+        ],
+        "BottomRight": [
+            54.0,
+            23.0
+        ],
+        "id": 69,
+        "Relations": [
+            13,
+            17,
+            21,
+            28,
+            34,
+            40,
+            67,
+            68,
+            69,
+            70,
+            75
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                55.0,
+                20.0
+            ],
+            "BottomRight": [
+                58.0,
+                21.0
+            ],
+            "Name": "Spike",
+            "Resizable": false,
+            "id": 70,
+            "Relations": [
+                13,
+                17,
+                21,
+                28,
+                34,
+                40,
+                67,
+                68,
+                69,
+                70,
+                75
+            ],
+            "Color": [
+                100,
+                100,
+                100,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            55.0,
+            20.0
+        ],
+        "BottomRight": [
+            58.0,
+            21.0
+        ],
+        "id": 70,
+        "Relations": [
+            13,
+            17,
+            21,
+            28,
+            34,
+            40,
+            67,
+            68,
+            69,
+            70,
+            75
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                36.0,
+                48.0
+            ],
+            "BottomRight": [
+                38.0,
+                50.0
+            ],
+            "Name": "Entity",
+            "Resizable": false,
+            "Entity_Type": "HEALTH_RESTORE",
+            "id": 71,
+            "Relations": [
+                71,
+                72,
+                73,
+                74
+            ],
+            "Color": [
+                255,
+                65,
+                51,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            36.0,
+            48.0
+        ],
+        "BottomRight": [
+            38.0,
+            50.0
+        ],
+        "id": 71,
+        "Relations": [
+            71,
+            72,
+            73,
+            74
+        ],
+        "Color": [
+            255,
+            65,
+            51,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Entity",
+        "Resizable": false,
+        "Entity_Type": "HEALTH_RESTORE"
+    },
+    {
+        "items": {
+            "TopLeft": [
+                105.0,
+                33.0
+            ],
+            "BottomRight": [
+                107.0,
+                36.0
+            ],
+            "Name": "Entity",
+            "Resizable": false,
+            "Entity_Type": "DRUNK_POTION",
+            "id": 72,
+            "Relations": [
+                71,
+                72,
+                73,
+                74
+            ],
+            "Color": [
+                158,
+                97,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            105.0,
+            33.0
+        ],
+        "BottomRight": [
+            107.0,
+            36.0
+        ],
+        "id": 72,
+        "Relations": [
+            71,
+            72,
+            73,
+            74
+        ],
+        "Color": [
+            158,
+            97,
+            84,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Entity",
+        "Resizable": false,
+        "Entity_Type": "DRUNK_POTION"
+    },
+    {
+        "items": {
+            "TopLeft": [
+                6.0,
+                49.0
+            ],
+            "BottomRight": [
+                8.0,
+                52.0
+            ],
+            "Name": "Entity",
+            "Resizable": false,
+            "Entity_Type": "DRUNK_POTION",
+            "id": 73,
+            "Relations": [
+                71,
+                72,
+                73,
+                74
+            ],
+            "Color": [
+                158,
+                97,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            6.0,
+            49.0
+        ],
+        "BottomRight": [
+            8.0,
+            52.0
+        ],
+        "id": 73,
+        "Relations": [
+            71,
+            72,
+            73,
+            74
+        ],
+        "Color": [
+            158,
+            97,
+            84,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Entity",
+        "Resizable": false,
+        "Entity_Type": "DRUNK_POTION"
+    },
+    {
+        "items": {
+            "TopLeft": [
+                43.0,
+                19.0
+            ],
+            "BottomRight": [
+                45.0,
+                22.0
+            ],
+            "Name": "Entity",
+            "Resizable": false,
+            "Entity_Type": "DRUNK_POTION",
+            "id": 74,
+            "Relations": [
+                71,
+                72,
+                73,
+                74
+            ],
+            "Color": [
+                158,
+                97,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            43.0,
+            19.0
+        ],
+        "BottomRight": [
+            45.0,
+            22.0
+        ],
+        "id": 74,
+        "Relations": [
+            71,
+            72,
+            73,
+            74
+        ],
+        "Color": [
+            158,
+            97,
+            84,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Entity",
+        "Resizable": false,
+        "Entity_Type": "DRUNK_POTION"
+    },
+    {
+        "items": {
+            "TopLeft": [
+                78.0,
+                37.0
+            ],
+            "BottomRight": [
+                81.0,
+                38.0
+            ],
+            "Name": "Spike",
+            "Resizable": false,
+            "id": 75,
+            "Relations": [
+                13,
+                17,
+                21,
+                28,
+                34,
+                40,
+                67,
+                68,
+                69,
+                70,
+                75
+            ],
+            "Color": [
+                100,
+                100,
+                100,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            78.0,
+            37.0
+        ],
+        "BottomRight": [
+            81.0,
+            38.0
+        ],
+        "id": 75,
+        "Relations": [
+            13,
+            17,
+            21,
+            28,
+            34,
+            40,
+            67,
+            68,
+            69,
+            70,
+            75
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": [
+                1.0,
+                38.0
+            ],
+            "BottomRight": [
+                3.0,
+                39.0
+            ],
+            "id": 76,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            1.0,
+            38.0
+        ],
+        "BottomRight": [
+            3.0,
+            39.0
+        ],
+        "id": 76,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                22.0,
+                33.0
+            ],
+            "BottomRight": [
+                24.0,
+                35.0
+            ],
+            "id": 77,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            22.0,
+            33.0
+        ],
+        "BottomRight": [
+            24.0,
+            35.0
+        ],
+        "id": 77,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                18.0,
+                63.0
+            ],
+            "BottomRight": [
+                30.0,
+                66.0
+            ],
+            "id": 78,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            18.0,
+            63.0
+        ],
+        "BottomRight": [
+            30.0,
+            66.0
+        ],
+        "id": 78,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": [
+                15.0,
+                65.0
+            ],
+            "BottomRight": [
+                17.0,
+                66.0
+            ],
+            "id": 79,
+            "Relations": null,
+            "Color": [
+                92,
+                84,
+                84,
+                255
+            ],
+            "Layer": 0
+        },
+        "TopLeft": [
+            15.0,
+            65.0
+        ],
+        "BottomRight": [
+            17.0,
+            66.0
+        ],
+        "id": 79,
+        "Relations": null,
+        "Color": [
+            92,
+            84,
+            84,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Spike",
+            "Resizable": false
+        },
+        "TopLeft": [
+            28.0,
+            55.0
+        ],
+        "BottomRight": [
+            47.0,
+            56.0
+        ],
+        "id": 80,
+        "Relations": [
+            13,
+            17,
+            21,
+            28,
+            34,
+            40,
+            67,
+            68,
+            69,
+            70,
+            75,
+            80
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Layer": 0,
+        "Name": "Spike",
+        "Resizable": false
+    }
+]

@@ -1,0 +1,543 @@
+[
+
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                255,
+                238,
+                88,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            5.0,
+            7.0
+        ],
+        "BottomRight": [
+            6.0,
+            7.0
+        ],
+        "id": 1,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            255,
+            238,
+            88,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                255,
+                238,
+                88,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            0.0,
+            7.0
+        ],
+        "BottomRight": [
+            1.0,
+            7.0
+        ],
+        "id": 2,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            255,
+            238,
+            88,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                255,
+                238,
+                88,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            1.0,
+            0.0
+        ],
+        "BottomRight": [
+            5.0,
+            0.0
+        ],
+        "id": 3,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            255,
+            238,
+            88,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                255,
+                238,
+                88,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            6.0,
+            1.0
+        ],
+        "BottomRight": [
+            6.0,
+            6.0
+        ],
+        "id": 4,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            255,
+            238,
+            88,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                255,
+                238,
+                88,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            0.0,
+            1.0
+        ],
+        "BottomRight": [
+            0.0,
+            6.0
+        ],
+        "id": 5,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            255,
+            238,
+            88,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                33,
+                33,
+                33,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            1.0,
+            1.0
+        ],
+        "BottomRight": [
+            1.0,
+            6.0
+        ],
+        "id": 6,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            33,
+            33,
+            33,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                33,
+                33,
+                33,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            2.0,
+            1.0
+        ],
+        "BottomRight": [
+            5.0,
+            1.0
+        ],
+        "id": 7,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            33,
+            33,
+            33,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                33,
+                33,
+                33,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            5.0,
+            2.0
+        ],
+        "BottomRight": [
+            5.0,
+            6.0
+        ],
+        "id": 8,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            33,
+            33,
+            33,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                26,
+                26,
+                26,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            2.0,
+            2.0
+        ],
+        "BottomRight": [
+            2.0,
+            7.0
+        ],
+        "id": 9,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            26,
+            26,
+            26,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                26,
+                26,
+                26,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            3.0,
+            2.0
+        ],
+        "BottomRight": [
+            4.0,
+            2.0
+        ],
+        "id": 12,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            26,
+            26,
+            26,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                26,
+                26,
+                26,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            4.0,
+            3.0
+        ],
+        "BottomRight": [
+            4.0,
+            7.0
+        ],
+        "id": 13,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            26,
+            26,
+            26,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "BrushPixel",
+            "Color": [
+                20,
+                20,
+                20,
+                255
+            ],
+            "Resizable": false
+        },
+        "TopLeft": [
+            3.0,
+            3.0
+        ],
+        "BottomRight": [
+            3.0,
+            7.0
+        ],
+        "id": 14,
+        "Relations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ],
+        "Color": [
+            20,
+            20,
+            20,
+            255
+        ],
+        "Name": "BrushPixel",
+        "Resizable": false
+    }
+]

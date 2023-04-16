@@ -1,0 +1,186 @@
+[
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            0.0,
+            0.0
+        ],
+        "BottomRight": [
+            21.0,
+            95.0
+        ],
+        "id": 0,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            22.0,
+            0.0
+        ],
+        "BottomRight": [
+            127.0,
+            33.0
+        ],
+        "id": 1,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            95.0,
+            34.0
+        ],
+        "BottomRight": [
+            127.0,
+            95.0
+        ],
+        "id": 2,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            22.0,
+            61.0
+        ],
+        "BottomRight": [
+            94.0,
+            95.0
+        ],
+        "id": 3,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Gate Key",
+            "Resizable": false
+        },
+        "TopLeft": [
+            26.0,
+            45.0
+        ],
+        "BottomRight": [
+            31.0,
+            46.0
+        ],
+        "id": 4,
+        "Relations": [
+            4
+        ],
+        "Color": [
+            255,
+            224,
+            112,
+            255
+        ],
+        "Name": "Gate Key",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Player Spawn",
+            "Resizable": false
+        },
+        "TopLeft": [
+            54.0,
+            56.0
+        ],
+        "BottomRight": [
+            57.0,
+            60.0
+        ],
+        "id": 5,
+        "Relations": [
+            5
+        ],
+        "Color": [
+            113,
+            146,
+            255,
+            255
+        ],
+        "Name": "Player Spawn",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Exit Point",
+            "Resizable": false
+        },
+        "TopLeft": [
+            79.0,
+            53.0
+        ],
+        "BottomRight": [
+            85.0,
+            60.0
+        ],
+        "id": 6,
+        "Relations": [
+            6
+        ],
+        "Color": [
+            56,
+            56,
+            56,
+            255
+        ],
+        "Name": "Exit Point",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            22.0,
+            48.0
+        ],
+        "BottomRight": [
+            40.0,
+            60.0
+        ],
+        "id": 7,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    }
+]

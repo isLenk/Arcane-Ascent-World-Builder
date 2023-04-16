@@ -1,0 +1,18 @@
+[
+    {
+        "mapName": "Map",
+        "mapColor": [
+            23,
+            22,
+            22,
+            255
+        ],
+        "unitSize": 4,
+        "displayWidth": 512,
+        "displayHeight": 384,
+        "copyUnitSize": 4,
+        "copyDisplayWidth": 512,
+        "copyDisplayHeight": 384,
+        "Name": "MAP_DATA"
+    }
+]

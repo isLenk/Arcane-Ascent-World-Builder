@@ -1,0 +1,1420 @@
+[
+    {
+        "mapName": "Map",
+        "mapColor": [
+           23,22,22,
+            255
+        ],
+        "unitSize": 4,
+        "displayWidth": 512,
+        "displayHeight": 384,
+        "copyUnitSize": 4,
+        "copyDisplayWidth": 512,
+        "copyDisplayHeight": 384,
+        "Name": "MAP_DATA"
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            0.0,
+            0.0
+        ],
+        "BottomRight": [
+            127.0,
+            0.0
+        ],
+        "id": 0,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            127.0,
+            1.0
+        ],
+        "BottomRight": [
+            127.0,
+            95.0
+        ],
+        "id": 1,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            0.0,
+            1.0
+        ],
+        "BottomRight": [
+            0.0,
+            95.0
+        ],
+        "id": 2,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            1.0,
+            21.0
+        ],
+        "BottomRight": [
+            25.0,
+            24.0
+        ],
+        "id": 3,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            1.0,
+            1.0
+        ],
+        "BottomRight": [
+            10.0,
+            20.0
+        ],
+        "id": 5,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            1.0,
+            38.0
+        ],
+        "BottomRight": [
+            30.0,
+            41.0
+        ],
+        "id": 7,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            28.0,
+            42.0
+        ],
+        "BottomRight": [
+            30.0,
+            58.0
+        ],
+        "id": 8,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            1.0,
+            42.0
+        ],
+        "BottomRight": [
+            18.0,
+            44.0
+        ],
+        "id": 9,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            1.0,
+            45.0
+        ],
+        "BottomRight": [
+            5.0,
+            59.0
+        ],
+        "id": 11,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            16.0,
+            89.0
+        ],
+        "BottomRight": [
+            19.0,
+            95.0
+        ],
+        "id": 12,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            20.0,
+            89.0
+        ],
+        "BottomRight": [
+            46.0,
+            91.0
+        ],
+        "id": 14,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            47.0,
+            36.0
+        ],
+        "BottomRight": [
+            63.0,
+            91.0
+        ],
+        "id": 16,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            20.0,
+            92.0
+        ],
+        "BottomRight": [
+            83.0,
+            95.0
+        ],
+        "id": 17,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Player Spawn",
+            "Resizable": false
+        },
+        "TopLeft": [
+            14.0,
+            16.0
+        ],
+        "BottomRight": [
+            17.0,
+            20.0
+        ],
+        "id": 18,
+        "Relations": [
+            18
+        ],
+        "Color": [
+            113,
+            146,
+            255,
+            255
+        ],
+        "Name": "Player Spawn",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Spike",
+            "Resizable": false
+        },
+        "TopLeft": [
+            18.0,
+            55.0
+        ],
+        "BottomRight": [
+            27.0,
+            56.0
+        ],
+        "id": 19,
+        "Relations": [
+            19,
+            62,
+            63,
+            64,
+            65,
+            67
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            18.0,
+            57.0
+        ],
+        "BottomRight": [
+            27.0,
+            58.0
+        ],
+        "id": 20,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Entity",
+            "Resizable": false,
+            "Entity_Type": "HEALTH_RESTORE"
+        },
+        "TopLeft": [
+            23.0,
+            46.0
+        ],
+        "BottomRight": [
+            25.0,
+            48.0
+        ],
+        "id": 21,
+        "Relations": [
+            21,
+            61
+        ],
+        "Color": [
+            255,
+            65,
+            51,
+            255
+        ],
+        "Name": "Entity",
+        "Resizable": false,
+        "Entity_Type": "HEALTH_RESTORE"
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            1.0,
+            60.0
+        ],
+        "BottomRight": [
+            8.0,
+            62.0
+        ],
+        "id": 22,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            7.0,
+            63.0
+        ],
+        "BottomRight": [
+            10.0,
+            70.0
+        ],
+        "id": 23,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            11.0,
+            69.0
+        ],
+        "BottomRight": [
+            14.0,
+            71.0
+        ],
+        "id": 24,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            6.0,
+            45.0
+        ],
+        "BottomRight": [
+            10.0,
+            46.0
+        ],
+        "id": 25,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            36.0,
+            79.0
+        ],
+        "BottomRight": [
+            46.0,
+            88.0
+        ],
+        "id": 26,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            31.0,
+            55.0
+        ],
+        "BottomRight": [
+            36.0,
+            58.0
+        ],
+        "id": 27,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            43.0,
+            40.0
+        ],
+        "BottomRight": [
+            46.0,
+            43.0
+        ],
+        "id": 28,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            68.0,
+            1.0
+        ],
+        "BottomRight": [
+            126.0,
+            6.0
+        ],
+        "id": 29,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            50.0,
+            1.0
+        ],
+        "BottomRight": [
+            67.0,
+            4.0
+        ],
+        "id": 30,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            11.0,
+            1.0
+        ],
+        "BottomRight": [
+            36.0,
+            8.0
+        ],
+        "id": 31,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            37.0,
+            1.0
+        ],
+        "BottomRight": [
+            44.0,
+            4.0
+        ],
+        "id": 32,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            21.0,
+            25.0
+        ],
+        "BottomRight": [
+            27.0,
+            27.0
+        ],
+        "id": 33,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            23.0,
+            28.0
+        ],
+        "BottomRight": [
+            25.0,
+            29.0
+        ],
+        "id": 34,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            1.0,
+            25.0
+        ],
+        "BottomRight": [
+            4.0,
+            37.0
+        ],
+        "id": 35,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            5.0,
+            25.0
+        ],
+        "BottomRight": [
+            13.0,
+            29.0
+        ],
+        "id": 36,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Exit Point",
+            "Resizable": false
+        },
+        "TopLeft": [
+            5.0,
+            30.0
+        ],
+        "BottomRight": [
+            11.0,
+            37.0
+        ],
+        "id": 37,
+        "Relations": [
+            37
+        ],
+        "Color": [
+            56,
+            56,
+            56,
+            255
+        ],
+        "Name": "Exit Point",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            14.0,
+            25.0
+        ],
+        "BottomRight": [
+            18.0,
+            26.0
+        ],
+        "id": 38,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            87.0,
+            7.0
+        ],
+        "BottomRight": [
+            93.0,
+            48.0
+        ],
+        "id": 39,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            79.0,
+            45.0
+        ],
+        "BottomRight": [
+            86.0,
+            48.0
+        ],
+        "id": 40,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            64.0,
+            66.0
+        ],
+        "BottomRight": [
+            74.0,
+            70.0
+        ],
+        "id": 41,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            64.0,
+            71.0
+        ],
+        "BottomRight": [
+            68.0,
+            81.0
+        ],
+        "id": 42,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            109.0,
+            75.0
+        ],
+        "BottomRight": [
+            126.0,
+            79.0
+        ],
+        "id": 43,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            118.0,
+            80.0
+        ],
+        "BottomRight": [
+            126.0,
+            82.0
+        ],
+        "id": 44,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            123.0,
+            83.0
+        ],
+        "BottomRight": [
+            126.0,
+            95.0
+        ],
+        "id": 45,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            89.0,
+            49.0
+        ],
+        "BottomRight": [
+            100.0,
+            54.0
+        ],
+        "id": 46,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            92.0,
+            55.0
+        ],
+        "BottomRight": [
+            96.0,
+            58.0
+        ],
+        "id": 47,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            115.0,
+            33.0
+        ],
+        "BottomRight": [
+            126.0,
+            38.0
+        ],
+        "id": 48,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            121.0,
+            39.0
+        ],
+        "BottomRight": [
+            126.0,
+            47.0
+        ],
+        "id": 49,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            124.0,
+            48.0
+        ],
+        "BottomRight": [
+            126.0,
+            53.0
+        ],
+        "id": 50,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            118.0,
+            30.0
+        ],
+        "BottomRight": [
+            126.0,
+            32.0
+        ],
+        "id": 51,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Gate Key",
+            "Resizable": false
+        },
+        "TopLeft": [
+            98.0,
+            11.0
+        ],
+        "BottomRight": [
+            103.0,
+            12.0
+        ],
+        "id": 52,
+        "Relations": [
+            52
+        ],
+        "Color": [
+            255,
+            224,
+            112,
+            255
+        ],
+        "Name": "Gate Key",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            94.0,
+            15.0
+        ],
+        "BottomRight": [
+            107.0,
+            17.0
+        ],
+        "id": 53,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            94.0,
+            7.0
+        ],
+        "BottomRight": [
+            95.0,
+            11.0
+        ],
+        "id": 54,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            117.0,
+            7.0
+        ],
+        "BottomRight": [
+            126.0,
+            9.0
+        ],
+        "id": 55,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            123.0,
+            10.0
+        ],
+        "BottomRight": [
+            126.0,
+            18.0
+        ],
+        "id": 56,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            94.0,
+            18.0
+        ],
+        "BottomRight": [
+            96.0,
+            32.0
+        ],
+        "id": 57,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            97.0,
+            18.0
+        ],
+        "BottomRight": [
+            103.0,
+            24.0
+        ],
+        "id": 58,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            77.0,
+            7.0
+        ],
+        "BottomRight": [
+            86.0,
+            16.0
+        ],
+        "id": 59,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            83.0,
+            17.0
+        ],
+        "BottomRight": [
+            86.0,
+            25.0
+        ],
+        "id": 60,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Entity",
+            "Resizable": false,
+            "Entity_Type": "DRUNK_POTION"
+        },
+        "TopLeft": [
+            92.0,
+            68.0
+        ],
+        "BottomRight": [
+            94.0,
+            71.0
+        ],
+        "id": 61,
+        "Relations": [
+            21,
+            61
+        ],
+        "Color": [
+            158,
+            97,
+            84,
+            255
+        ],
+        "Name": "Entity",
+        "Resizable": false,
+        "Entity_Type": "DRUNK_POTION"
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Spike",
+            "Resizable": false
+        },
+        "TopLeft": [
+            82.0,
+            43.0
+        ],
+        "BottomRight": [
+            86.0,
+            44.0
+        ],
+        "id": 62,
+        "Relations": [
+            19,
+            62,
+            63,
+            64,
+            65,
+            67
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Spike",
+            "Resizable": false
+        },
+        "TopLeft": [
+            64.0,
+            90.0
+        ],
+        "BottomRight": [
+            70.0,
+            91.0
+        ],
+        "id": 63,
+        "Relations": [
+            19,
+            62,
+            63,
+            64,
+            65,
+            67
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Spike",
+            "Resizable": false
+        },
+        "TopLeft": [
+            119.0,
+            73.0
+        ],
+        "BottomRight": [
+            126.0,
+            74.0
+        ],
+        "id": 64,
+        "Relations": [
+            19,
+            62,
+            63,
+            64,
+            65,
+            67
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Spike",
+            "Resizable": false
+        },
+        "TopLeft": [
+            123.0,
+            28.0
+        ],
+        "BottomRight": [
+            126.0,
+            29.0
+        ],
+        "id": 65,
+        "Relations": [
+            19,
+            62,
+            63,
+            64,
+            65,
+            67
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0,
+            "Name": "Spike",
+            "Resizable": false
+        },
+        "TopLeft": [
+            9.0,
+            61.0
+        ],
+        "BottomRight": [
+            10.0,
+            62.0
+        ],
+        "id": 67,
+        "Relations": [
+            19,
+            62,
+            63,
+            64,
+            65,
+            67
+        ],
+        "Color": [
+            100,
+            100,
+            100,
+            255
+        ],
+        "Name": "Spike",
+        "Resizable": false
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            45.0,
+            44.0
+        ],
+        "BottomRight": [
+            46.0,
+            57.0
+        ],
+        "id": 68,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            50.0,
+            33.0
+        ],
+        "BottomRight": [
+            61.0,
+            35.0
+        ],
+        "id": 69,
+        "Relations": null,
+        "Color": [
+            92, 84, 84,
+            255
+        ]
+    }
+]

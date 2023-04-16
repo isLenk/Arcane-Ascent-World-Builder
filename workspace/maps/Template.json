@@ -1,0 +1,87 @@
+[
+    {
+        "mapName": "Map",
+        "mapColor": [
+            194,
+            196,
+            207,
+            255
+        ],
+        "unitSize": 4,
+        "displayWidth": 512,
+        "displayHeight": 384,
+        "copyUnitSize": 4,
+        "copyDisplayWidth": 512,
+        "copyDisplayHeight": 384,
+        "Name": "MAP_DATA"
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            0.0,
+            0.0
+        ],
+        "BottomRight": [
+            127.0,
+            0.0
+        ],
+        "id": 0,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            0.0,
+            1.0
+        ],
+        "BottomRight": [
+            0.0,
+            95.0
+        ],
+        "id": 1,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ],
+        "Layer": 0
+    },
+    {
+        "items": {
+            "TopLeft": 0,
+            "BottomRight": 0
+        },
+        "TopLeft": [
+            127.0,
+            1.0
+        ],
+        "BottomRight": [
+            127.0,
+            95.0
+        ],
+        "id": 2,
+        "Relations": null,
+        "Color": [
+            0,
+            0,
+            0,
+            255
+        ],
+        "Layer": 0
+    }
+]
